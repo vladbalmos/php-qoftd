@@ -77,7 +77,7 @@ $positiveMessages = [
     "Make the other person happy about doing the thing you suggest."
 ];
 
-$index = mt_rand(0, count($positiveMessages));
+$index = mt_rand(0, count($positiveMessages) - 1);
 $msg = $positiveMessages[$index];
 
 echo CliColor::boldWhite($msg) . PHP_EOL;
