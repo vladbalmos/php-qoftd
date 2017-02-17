@@ -25,6 +25,10 @@ class CliColor
 }
 
 $positiveMessages = [
+    // Mine
+    "Anger prevents seeing the situation objectively",
+    "Don't believe everything you think!",
+
     // 13 things strong minded people don't do
     "Don't give up after the first failure!",
     "Don't fear alone time!",
