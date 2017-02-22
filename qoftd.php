@@ -78,7 +78,10 @@ $positiveMessages = [
     "Praise the slightest improvement and praise every improvement. Be \"hearty in your approbation and lavish in your praise.\"",
     "Give the other person a fine reputation to live up to.",
     "Use encouragement. Make the fault seem easy to correct.",
-    "Make the other person happy about doing the thing you suggest."
+    "Make the other person happy about doing the thing you suggest.",
+
+    // Other
+    "Never take counsel of your fears!"
 ];
 
 $index = mt_rand(0, count($positiveMessages) - 1);
