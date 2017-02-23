@@ -81,7 +81,8 @@ $positiveMessages = [
     "Make the other person happy about doing the thing you suggest.",
 
     // Other
-    "Never take counsel of your fears!"
+    "Never take counsel of your fears!",
+    "Pain is inevitable, suffering is not!"
 ];
 
 $index = mt_rand(0, count($positiveMessages) - 1);
